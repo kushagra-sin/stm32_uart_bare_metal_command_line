@@ -1,0 +1,5 @@
+../Src/uart.c:35:6:uart_init	8	static
+../Src/uart.c:54:6:UART_Read_CH	4	static
+../Src/uart.c:58:6:UART_Send_CH	16	static
+../Src/uart.c:63:5:__io_putchar	16	static
+../Src/uart.c:67:17:calc_baud_rate	16	static
